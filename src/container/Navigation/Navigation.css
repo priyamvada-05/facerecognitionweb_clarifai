@@ -1,0 +1,12 @@
+.wrap{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+p{
+
+	font-family: 'SEGA LOGO FONT';
+	cursor: default;
+}
+

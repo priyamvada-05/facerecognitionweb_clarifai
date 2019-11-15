@@ -1,0 +1,21 @@
+.wrap{
+	display: flex;
+	flex-direction: row;
+}
+
+.new111{
+	font-size: 1.5em
+}
+
+.height{
+height: 90px;
+}
+
+.new11{
+	display: flex;
+	justify-content: center;
+}
+.mar{
+	margin-left: 20px;
+	margin-right: 10px;
+}
