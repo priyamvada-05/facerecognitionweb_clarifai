@@ -1,10 +1,11 @@
 {
   "name": "facerecognitionweb",
-  "homepage": "https://github.com/priyamvada-05/facerecognitionweb_clarifai",
+  "homepage": "https://priyamvada-05.github.io/facerecognitionweb_clarifai",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "clarifai": "^2.9.1",
+    "gh-pages": "^2.1.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-particles-js": "^2.7.0",
