@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/facerecognitionweb_clarifai/static/css/main.a1df48ed.chunk.css",
-    "main.js": "/facerecognitionweb_clarifai/static/js/main.8c596f7f.chunk.js",
-    "main.js.map": "/facerecognitionweb_clarifai/static/js/main.8c596f7f.chunk.js.map",
+    "main.js": "/facerecognitionweb_clarifai/static/js/main.295bb37c.chunk.js",
+    "main.js.map": "/facerecognitionweb_clarifai/static/js/main.295bb37c.chunk.js.map",
     "runtime-main.js": "/facerecognitionweb_clarifai/static/js/runtime-main.41722c5b.js",
     "runtime-main.js.map": "/facerecognitionweb_clarifai/static/js/runtime-main.41722c5b.js.map",
     "static/css/2.eb45ad44.chunk.css": "/facerecognitionweb_clarifai/static/css/2.eb45ad44.chunk.css",
     "static/js/2.7473daae.chunk.js": "/facerecognitionweb_clarifai/static/js/2.7473daae.chunk.js",
     "static/js/2.7473daae.chunk.js.map": "/facerecognitionweb_clarifai/static/js/2.7473daae.chunk.js.map",
     "index.html": "/facerecognitionweb_clarifai/index.html",
-    "precache-manifest.675863a736ba5d21d0ac9a26a298f397.js": "/facerecognitionweb_clarifai/precache-manifest.675863a736ba5d21d0ac9a26a298f397.js",
+    "precache-manifest.4106de3d669b52c52d88189a77f3d1f7.js": "/facerecognitionweb_clarifai/precache-manifest.4106de3d669b52c52d88189a77f3d1f7.js",
     "service-worker.js": "/facerecognitionweb_clarifai/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/facerecognitionweb_clarifai/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.a1df48ed.chunk.css.map": "/facerecognitionweb_clarifai/static/css/main.a1df48ed.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.7473daae.chunk.js",
     "static/css/main.a1df48ed.chunk.css",
-    "static/js/main.8c596f7f.chunk.js"
+    "static/js/main.295bb37c.chunk.js"
   ]
 }
