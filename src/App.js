@@ -3,7 +3,6 @@ import './App.css';
 import Navigation from './container/Navigation/Navigation';
 import FaceReadingPath from './container/FaceReadingPath/FaceReadingPath';
 import Content from './container/Content/Content';
-import WebcamCapture from './container/Camera/WebcamCapture';
 import Particles from 'react-particles-js';
 import {Particle_constant} from './Particle_constant';
 import Clarifai from 'clarifai'
@@ -59,7 +58,6 @@ class App extends Component{
         <Navigation />
         <FaceReadingPath OnDetect={this.OnDetect} OnTextEnter={this.OnTextEnter} />
         <Content coordinate={this.state.Array_box} img_path={this.state.image_url} wide={this.state.wide} heigh={this.state.heigh}/> 
-        <WebcamCapture />
     </div>
   );
 }
